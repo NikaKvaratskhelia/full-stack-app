@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "title": "The Quantum Mystery",
+    "description": "A brilliant physicist discovers a parallel universe and must decide whether to reveal the truth to the world.",
+    "coverPhoto": "https://images.unsplash.com/photo-1485095329183-d0dade213e6c?w=400",
+    "genre": ["Science Fiction", "Thriller", "Drama"],
+    "rating": 8.5,
+    "runtimeInMinutes": 148,
+    "publishYear": 2024,
+    "producer": {
+      "id": 1,
+      "fullName": "Christopher Nolan",
+      "shortBio": "Award-winning filmmaker known for complex narratives and visual effects.",
+      "gender": "Male",
+      "country": "United Kingdom",
+      "isAlive": true,
+      "dateOfBirth": "1970-07-30"
+    },
+    "actors": [
+      {
+        "id": 101,
+        "fullName": "Leonardo DiCaprio",
+        "shortBio": "Academy Award-winning actor known for diverse roles in drama and adventure films.",
+        "gender": "Male",
+        "country": "United States",
+        "isAlive": true,
+        "dateOfBirth": "1974-11-11"
+      },
+      {
+        "id": 102,
+        "fullName": "Emma Stone",
+        "shortBio": "Oscar-winning actress known for her performances in musicals and dramas.",
+        "gender": "Female",
+        "country": "United States",
+        "isAlive": true,
+        "dateOfBirth": "1988-11-06"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Echoes of Tomorrow",
+    "description": "In a dystopian future, a rebel group fights against an AI-controlled government to restore human freedom.",
+    "coverPhoto": "https://images.unsplash.com/photo-1478720568477-152d9e3fb3f3?w=400",
+    "genre": ["Science Fiction", "Action", "Adventure"],
+    "rating": 7.8,
+    "runtimeInMinutes": 135,
+    "publishYear": 2023,
+    "producer": {
+      "id": 2,
+      "fullName": "Denis Villeneuve",
+      "shortBio": "Visionary director renowned for creating immersive sci-fi worlds and epic storytelling.",
+      "gender": "Male",
+      "country": "Canada",
+      "isAlive": true,
+      "dateOfBirth": "1967-10-03"
+    },
+    "actors": [
+      {
+        "id": 103,
+        "fullName": "Timothée Chalamet",
+        "shortBio": "Rising star known for his captivating performances in contemporary dramas and sci-fi films.",
+        "gender": "Male",
+        "country": "France",
+        "isAlive": true,
+        "dateOfBirth": "1994-12-13"
+      },
+      {
+        "id": 104,
+        "fullName": "Zendaya",
+        "shortBio": "Multi-talented performer excelling in drama, action sequences, and character depth.",
+        "gender": "Female",
+        "country": "United States",
+        "isAlive": true,
+        "dateOfBirth": "1996-09-01"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The Last Letter",
+    "description": "A woman receives mysterious letters from her younger self, revealing secrets about choices she hasn't made yet.",
+    "coverPhoto": "https://images.unsplash.com/photo-1489599849228-ed3fe8dda775?w=400",
+    "genre": ["Romance", "Drama", "Mystery"],
+    "rating": 7.2,
+    "runtimeInMinutes": 126,
+    "publishYear": 2025,
+    "producer": {
+      "id": 3,
+      "fullName": "Greta Gerwig",
+      "shortBio": "Acclaimed director known for character-driven narratives and emotional depth.",
+      "gender": "Female",
+      "country": "United States",
+      "isAlive": true,
+      "dateOfBirth": "1983-08-04"
+    },
+    "actors": [
+      {
+        "id": 105,
+        "fullName": "Saoirse Ronan",
+        "shortBio": "Award-winning Irish actress celebrated for her nuanced performances and emotional range.",
+        "gender": "Female",
+        "country": "Ireland",
+        "isAlive": true,
+        "dateOfBirth": "1994-04-12"
+      },
+      {
+        "id": 106,
+        "fullName": "Andrew Garfield",
+        "shortBio": "Talented actor known for his sensitive portrayals and versatility across genres.",
+        "gender": "Male",
+        "country": "United Kingdom",
+        "isAlive": true,
+        "dateOfBirth": "1983-08-20"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Midnight in Tokyo",
+    "description": "A jazz musician and a fashion designer from different worlds collide at a midnight lounge, changing their lives forever.",
+    "coverPhoto": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=400",
+    "genre": ["Romance", "Drama", "Music"],
+    "rating": 8.1,
+    "runtimeInMinutes": 142,
+    "publishYear": 2024,
+    "producer": {
+      "id": 4,
+      "fullName": "Yorgos Lanthimos",
+      "shortBio": "Greek filmmaker known for creating visually stunning and emotionally compelling stories.",
+      "gender": "Male",
+      "country": "Greece",
+      "isAlive": true,
+      "dateOfBirth": "1973-09-09"
+    },
+    "actors": [
+      {
+        "id": 107,
+        "fullName": "Hiroyuki Sanada",
+        "shortBio": "Renowned Japanese actor with international acclaim for his powerful performances.",
+        "gender": "Male",
+        "country": "Japan",
+        "isAlive": true,
+        "dateOfBirth": "1952-03-12"
+      },
+      {
+        "id": 108,
+        "fullName": "Thomasin McKenzie",
+        "shortBio": "New Zealand actress known for her fresh talent and compelling screen presence.",
+        "gender": "Female",
+        "country": "New Zealand",
+        "isAlive": true,
+        "dateOfBirth": "2000-12-26"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "The Forgotten City",
+    "description": "Archaeologists uncover an ancient civilization hidden beneath the ocean, unlocking secrets that could reshape human history.",
+    "coverPhoto": "https://images.unsplash.com/photo-1474133974161-aa606a62e6e3?w=400",
+    "genre": ["Adventure", "Mystery", "Historical"],
+    "rating": 7.9,
+    "runtimeInMinutes": 158,
+    "publishYear": 2023,
+    "producer": {
+      "id": 5,
+      "fullName": "Ang Lee",
+      "shortBio": "Visionary filmmaker renowned for his ability to blend technical innovation with human emotion.",
+      "gender": "Male",
+      "country": "Taiwan",
+      "isAlive": true,
+      "dateOfBirth": "1954-10-18"
+    },
+    "actors": [
+      {
+        "id": 109,
+        "fullName": "Cate Blanchett",
+        "shortBio": "Highly accomplished Australian actress known for her diverse and commanding performances.",
+        "gender": "Female",
+        "country": "Australia",
+        "isAlive": true,
+        "dateOfBirth": "1969-05-14"
+      },
+      {
+        "id": 110,
+        "fullName": "Oscar Isaac",
+        "shortBio": "Versatile actor and musician known for intense character work across multiple genres.",
+        "gender": "Male",
+        "country": "United States",
+        "isAlive": true,
+        "dateOfBirth": "1979-03-09"
+      }
+    ]
+  }
+]
